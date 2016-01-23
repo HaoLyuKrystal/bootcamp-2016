@@ -1,2 +1,13 @@
 A readme
-MY NAME IS SHAYNE, AND MY COWORKER'S NAME IS LYNN.
+=============
+EXAMPLE Intro
+=============
+
++-------------------------+
+|MY NAME IS KRYSTAL       |
+|MY Home country is China |
++-------------------------+
+- This is Title1
+- This is Title2
+- END
+
